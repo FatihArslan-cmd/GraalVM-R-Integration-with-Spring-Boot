@@ -8,8 +8,8 @@ function(dataHolder) {
 
     plot <- xyplot(randomData~time,
        data=data.frame(randomData = data, time = -99:0),
-       main='Random Number Plot',
-       ylab="Random(x)", type = c('l', 'g'), col.line='dark orange')
+       main='Column 5 Datas',
+       ylab="Datas", type = c('l', 'g'), col.line='dark orange')
     print(plot)
     svg.off()
 }
