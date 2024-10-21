@@ -104,5 +104,5 @@ To contribute:
 
 ## <a id="contact"></a>📞 Contact
 
-**Your Name** - *Software Developer* - [Your GitHub](https://github.com/FatihArslan-cmd)
+**Fatih Arslan** - *Software Developer*
 
