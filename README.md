@@ -33,7 +33,8 @@ Key Features:<br/>
 <hr>
 ## <a id="Screenshots"></a>Screenshots
 ![Ekran görüntüsü 2024-10-21 152814](https://github.com/user-attachments/assets/7b384666-655e-4098-8c03-c2015c82a5de)
-
+<p align="center"> 
+<img src="https://github.com/user-attachments/assets/7b384666-655e-4098-8c03-c2015c82a5de" width="500" alt="Screenshot 4"/>  </p> 
 
 ## <a id="getting-started"></a>🚀 Getting Started
 
